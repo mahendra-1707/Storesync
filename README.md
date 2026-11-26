@@ -6,9 +6,9 @@
 
 ## Live Deployment
 
-* **Live Storefront (Vercel):** `https://storesync-mauve.vercel.app/`
-* **Live API Backend (Render):** `https://storesync-6ide.onrender.com/`
-* **GitHub Repository:** `https://github.com/likhithbn7-code/Storesync`
+* **Live Storefront (Vercel):** `https://storesync-719q.vercel.app/`
+* **Live API Backend (Render):** `https://store-sync-ywr6.onrender.com`
+* **GitHub Repository:** `https://github.com/mahendra-1707/Storesync`
 
 ---
 
@@ -111,9 +111,9 @@ Set-Content -Path "README.md" -Value @"
 **StoreSync** is a full-stack, event-driven retail platform designed to eliminate overselling and stale catalog search across multi-city stores (\`Bengaluru\`, \`Mumbai\`, \`Delhi\`, \`Hyderabad\`, \`Chennai\`). Built on **Aiven PostgreSQL**, **Aiven Apache Kafka**, and **Aiven OpenSearch**, it pairs atomic row-level concurrency locks with real-time search indexing, Razorpay/UPI checkout, Gmail SMTP OTP authentication, and a **Groq-powered AI Shopping Assistant**.
 
 ## Live Deployment
-* **Live Storefront (Vercel):** https://storesync-mauve.vercel.app/
-* **Live API Backend (Render):** https://storesync-6ide.onrender.com/
-* **GitHub Repository:** https://github.com/likhithbn7-code/Storesync
+* **Live Storefront (Vercel):** https://storesync-719q.vercel.app/
+* **Live API Backend (Render):** https://store-sync-ywr6.onrender.com
+* **GitHub Repository:** https://github.com/mahendra-1707/Storesync
 "@
 git add README.md
 git commit -m "Update README with live deployment links and architecture documentation"
